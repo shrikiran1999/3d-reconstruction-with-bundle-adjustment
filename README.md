@@ -1,1 +1,1 @@
-# 3d-reconstruction-bundleadjustment
+# 3dreconstruction-bundleadjustment
